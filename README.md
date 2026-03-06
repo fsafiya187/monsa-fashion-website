@@ -86,9 +86,7 @@ Open **index.html** in your browser.
 
 ## 📸 Preview
 
-```
 ![Preview](thumbnail.png)
-```
 
 ---
 
